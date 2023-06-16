@@ -11,8 +11,8 @@ const Search = () => {
     const { keyword } = useSelector(state => state.music)
     return (
         <div className='w-full'>
-            <div className='flex h-[50px] mb-7 items-center text-sm border-b border-gray-400 pl-[60px] pb-1'>
-                <span className='text-[24px] font-bold pr-6 border-r border-gray-400'>Kết quả tìm kiếm</span>
+            <div className='flex h-[50px] mb-7 items-center text-sm border-b pl-[60px] pb-1 mt-20'>                      
+                <span className='text-[24px] font-bold pr-6 border-r '>Kết quả tìm kiếm</span>
                 <div className='flex items-center'>
                     {searchMenu.map(item => (
                         <NavLink

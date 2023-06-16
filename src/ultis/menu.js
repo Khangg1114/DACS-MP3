@@ -15,7 +15,7 @@ export const sidebarMenu = [
     },
     {
         path: 'zing-chart',
-        text: '#zingchart',
+        text: '#Chart',
         icons: <HiOutlineChartPie size={24} />
     },
     {

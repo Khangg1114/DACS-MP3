@@ -98,7 +98,7 @@ const ChartSection = () => {
             <div className='absolute top-0 z-10 left-[59px] bg-[rgba(77,34,104,0.9)] right-[59px] bottom-0 rounded-md'></div>
             <div className='absolute top-0 z-20 left-[59px] right-[59px] bottom-0 p-5 flex flex-col gap-8 rounded-md'>
                 <Link to={path.ZING_CHART} className='flex gap-2 items-center text-white hover:text-green-800'>
-                    <h3 className='text-2xl font-bold'>#zingchart</h3>
+                    <h3 className='text-2xl font-bold'>#chart</h3>
                     <span className='p-1 rounded-full bg-white'><BsFillPlayFill size={18} color='green' /></span>
                 </Link>
                 <div className='flex gap-4 h-full'>

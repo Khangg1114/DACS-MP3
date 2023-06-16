@@ -110,7 +110,7 @@ const ZingChart = () => {
                     <div className='absolute top-0 left-0 right-0 bottom-0 bg-[rgba(206,217,217,0.9)]'></div>
                     <div className='absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-t from-[#CED9D9] to-transparent'></div>
                     <div className='absolute top-0 left-0 right-0 bottom-1/2 flex items-center px-[60px]'>
-                        <h3 className='font-bold text-[40px] text-main-500'>#zingchart</h3>
+                        <h3 className='font-bold text-[40px] text-main-500'>#chart</h3>
                     </div>
                     <div className='absolute top-1/3 left-0 right-0 bottom-0 px-[60px]'>
                         {data && <Line data={data} ref={chartRef} options={options} />}
