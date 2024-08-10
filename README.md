@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+Update 10/08/2024 : The api not work, ill fix it later
+Some website interface
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+--------------------------------------------------------------------------
 
-## Available Scripts
 
-In the project directory, you can run:
+![alt](https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/352969253_1264562231119481_3884535538451778360_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=PbF_XEAXPMoQ7kNvgFTUJqt&_nc_ht=scontent.fsgn5-10.fna&oh=03_Q7cD1QGrmzdFhcqeEwbUhAPoeJr_gwsABfRl-vsENtV9eXHctw&oe=66DED5DE)
+--------------------------------------------------------------------------
+<<
 
-### `npm start`
+![alt](https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.15752-9/348382762_837745554426311_2985625715260394204_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Y-eDp4jw14EQ7kNvgEEa3qM&_nc_ht=scontent.fsgn5-5.fna&oh=03_Q7cD1QG9tTs8rO3chNkfNmtxWpxnt5unuNQTw-DZidFAPjydqw&oe=66DEC2DF)
+--------------------------------------------------------------------------
+<<
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![alt](https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/348381726_202257478977055_3630710298751552729_n.png?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=4Tj-axyLaPwQ7kNvgGDfrMd&_nc_ht=scontent.fsgn5-12.fna&oh=03_Q7cD1QFuQik27F1_L-p5fQ0x3Spqy9ZlGoCsndEc6eVr49jm9w&oe=66DEB4A9)
+--------------------------------------------------------------------------
+<<
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![alt](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/348382372_743798344095261_7285280440851497952_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=PyOtGuzXVUsQ7kNvgE4g0Ya&_nc_ht=scontent.fsgn5-15.fna&oh=03_Q7cD1QFVmW87_OP8sqfAm5osXY0LKAjCfQhPczauntheDdPT-A&oe=66DEBC00)
+--------------------------------------------------------------------------
+<<
 
-### `npm test`
+![alt]([https://i.imgur.com/4sUMB7D.jpeg](https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/353617412_6289354044433384_1606676881655704449_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=G7nlzeGRPGEQ7kNvgEvBv55&_nc_ht=scontent.fsgn5-15.fna&oh=03_Q7cD1QFEg9kcYwfc0XeCVvivmDXTSTOvj2LbYkUVBE5m6yuW3w&oe=66DECD43))
+--------------------------------------------------------------------------
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
